@@ -67,6 +67,7 @@ sudo setcap cap_net_raw,cap_net_admin=eip /usr/sbin/tcpdump
 getcap /usr/sbin/tcpdump
 
 
+
 NOTE: Now Login as Newly Created User on Ubuntu Virtual Machine
 
 # Create Virtual Environment
@@ -82,6 +83,7 @@ sudo pip2 install cuckoo vmcloak
 cuckoo init
 
 cuckoo community
+
 
 
 NOTE: Now Proceed to "Setting-Up Guest Machine" File in Repository

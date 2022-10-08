@@ -11,9 +11,9 @@ sudo adduser cuckoo
 ```
 sudo usermod -aG sudo cuckoo
 ```
-```
+
 # Installing Pre-Requisites
-```
+
 ```
 sudo apt-get -y install python python3-pip python-dev virtualenv python-setuptools curl git libffi-dev libssl-dev libjpeg-dev zlib1g swig
 ```

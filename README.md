@@ -10,7 +10,7 @@ Storage: 80 GB
 
 Host Machine: Ubuntu 20.04 LTS or above
 
-https://ubuntu.com/download/desktop
+Link: https://ubuntu.com/download/desktop
 
 Guest Machine: Windows 7 Ultimate (Included in Setup)
 

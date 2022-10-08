@@ -3,7 +3,9 @@
 # SPECIFICATIONS
 
 RAM: 6 GB
+
 CPU: 4 Cores
+
 Storage: 80 GB
 
 Host Machine: Ubuntu 20.04 LTS or above

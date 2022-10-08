@@ -8,13 +8,11 @@ CPU: 4 Cores
 
 Storage: 80 GB
 
-Host Machine: Ubuntu 20.04 LTS or above
-
-Link: https://ubuntu.com/download/desktop
+Host Machine: [Ubuntu 20.04 LTS or Above](https://ubuntu.com/download/desktop)
 
 Guest Machine: Windows 7 Ultimate
 
-Link: Included in Setup Instructions as You Follow
+Note: Included in Setup Instructions as You Follow
 
 # VMWare Settings
 

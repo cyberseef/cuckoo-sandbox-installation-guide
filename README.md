@@ -6,6 +6,9 @@ RAM: 6 GB
 CPU: 4 Cores
 STORAGE: 80 GB
 
+Host Machine: Ubuntu 20.04 LTS or above
+Guest Machine: Windows 7
+
 # VMWare Settings
 
 1. Open Settings of the Virtual Machine

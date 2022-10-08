@@ -49,7 +49,7 @@ ls
 gedit virtualbox.conf
 
 
-NOTE: Now Copy the Text in the file "virtualbox.conf" present in the Repository to the file opened with the Previous Command then close the file in Ubuntu and Continue in the Terminal
+NOTE: Now Copy the Text in the file [virtualbox.conf](https://github.com/cyberseef/cuckoo-sandbox-installation-guide/blob/31fff30b05f073c2f7b2efb0b710e9c072fe01d1/virtualbox.conf) present in the Repository to the file opened with the Previous Command then close the file in Ubuntu and Continue in the Terminal
 
 cd /etc/iproute2
 

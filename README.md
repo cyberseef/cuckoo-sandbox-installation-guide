@@ -12,7 +12,9 @@ Host Machine: Ubuntu 20.04 LTS or above
 
 Link: https://ubuntu.com/download/desktop
 
-Guest Machine: Windows 7 Ultimate (Included in Setup)
+Guest Machine: Windows 7 Ultimate
+
+Link: Included in Setup Instructions as You Follow
 
 # VMWare Settings
 

@@ -31,4 +31,4 @@ Link: Included in Setup Instructions as You Follow
 5. Go to Processor Tab
 6. Enable "Enable Nested VT-x/AMD-V" in Extended Features
 
-NOTE: After Setting Your Desired Hypervisor as Stated Above, Open https://github.com/cyberseef/cuckoo-sandbox-installation-guide/blob/main/Setting-Up%20Guest%20Machine.MD
+NOTE: After Setting Your Desired Hypervisor as Stated Above, Open Setting-Up Host Machine.MD

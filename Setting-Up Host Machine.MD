@@ -1,9 +1,9 @@
 Open Ubuntu VM and it's Terminal to get Started
 
 # Update System
-
+'''
 sudo apt-get update && sudo apt-get upgrade -y
-
+'''
 # Add Users
 
 sudo adduser cuckoo

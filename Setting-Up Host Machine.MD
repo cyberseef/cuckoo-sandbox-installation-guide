@@ -86,4 +86,4 @@ cuckoo community
 
 
 
-NOTE: Now Proceed to ["Setting-Up Guest Machine" File in Repository](https://github.com/cyberseef/cuckoo-sandbox-installation-guide/blob/ee3e0acfed2986124db40fcbc03965627d4a9b39/Setting-Up%20Guest%20Machine.MD)
+NOTE: Now Proceed to [Guest-Machine Setup](https://github.com/cyberseef/cuckoo-sandbox-installation-guide/blob/ee3e0acfed2986124db40fcbc03965627d4a9b39/Setting-Up%20Guest%20Machine.MD)

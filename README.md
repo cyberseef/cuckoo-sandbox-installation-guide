@@ -9,6 +9,7 @@ CPU: 4 Cores
 Storage: 80 GB
 
 Host Machine: Ubuntu 20.04 LTS or above
+
 Guest Machine: Windows 7
 
 # VMWare Settings

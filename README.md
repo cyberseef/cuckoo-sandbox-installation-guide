@@ -10,7 +10,7 @@ Storage: 80 GB
 
 Host Machine: Ubuntu 20.04 LTS or above
 
-Guest Machine: Windows 7
+Guest Machine: Windows 7 Ultimate (Included in Setup)
 
 # VMWare Settings
 
